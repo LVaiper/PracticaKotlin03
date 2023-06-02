@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticaKotlin03</string>
+    <string name="usuario">Enrique</string>
+    <string name="contraseña">2468</string>
+</resources>
